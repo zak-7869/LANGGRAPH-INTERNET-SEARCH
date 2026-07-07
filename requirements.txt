@@ -1,0 +1,8 @@
+ langgraph 
+ langchain_groq 
+ langchain_community 
+ tavily-python
+ python-dotenv
+ langchain-huggingface
+ sentence-transformers
+ chromadb
